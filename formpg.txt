@@ -1,0 +1,53 @@
+
+To: sales@abilene.com, john.arnold@covasystems.com, dan.hendrickson@covasystems.com
+From: [required-email]
+Subject: COVA Systems Contact Request
+
+
+______________________________________________________
+
+Organization Name:				[required-orgname]
+
+First Name:						[required-firstname]
+
+Last Name:						[required-lastname]  
+
+Email Address: 					[required-email]
+
+Phone Number:					[required-phone]
+
+Best Time to Contact:			[required-contact]
+
+______________________________________________________
+
+[disaster]	Disaster Recovery
+
+[dedicated]	Dedicated Servers
+
+[managed]	Managed Hosting
+
+[virtual]	Virtual Hosting
+
+[data]		Data Center Co-location
+	
+[ebusiness]	E-Business and IT Services
+
+[highspeed]	Dedicated High-Speed Internet Connection
+
+[wireless]	Wireless Internet Solutions
+
+[cisco]		Cisco Router/Firewall Solutions
+
+______________________________________________________
+
+How were you referred to COVA Systems?
+
+[referred]
+
+______________________________________________________
+
+Please Provide any specific information that may help us better understand your needs.
+
+[question]
+
+

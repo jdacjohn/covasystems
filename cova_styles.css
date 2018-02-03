@@ -1,0 +1,41 @@
+.prodhead {
+	font-family: Arial, Helvetica, sans-sarif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #162b48;
+}
+.prodsubheading {
+	font-family: Arial, Helvetica, sans-sarif;
+	font-size: 12px;
+	font-variant: normal;
+	color: #000000;
+	font-style: normal;
+}
+.productital {
+	font-family: Arial, Helvetica, sans-sarif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	color: #000000;
+}
+.aboutbody {
+	font-family: Arial, Helvetica, sans-sarif;
+	font-size: 12px;
+	font-style: normal;
+	color: #000000;
+	text-align: justify;
+}
+.abouttitle {
+	font-family: Arial, Helvetica, sans-sarif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	font-style: normal;
+}
+.generalbodycopy {
+	font-family: Arial, Helvetica, sans-sarif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+}
